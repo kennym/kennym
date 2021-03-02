@@ -4,6 +4,11 @@ I'm Top 6% on StackOverflow. Coding is my passion, and I love contributing to Op
 
 I'm actively looking for more opportunities to contribute more back to Open Source and learn about blockchain technology.
 
+#### Biggest achievements
+
+- Launched parenting app from start to finish and got acquired by a NYC startup
+- Helping people acquire more financial education in Latin America thanks to being part of a Cashflow Club
+
 #### Tech stack
   - React.JS
   - React Native
