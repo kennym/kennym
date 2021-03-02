@@ -9,6 +9,8 @@ Tech stack:
   - React Native
   - TypeScript
   - Ruby on Rails
+  - NodeJS
+  - Some Rust/Go
 
 Misc:
 - 🔭 I’m currently working on improving the future of async communication at Tribe.
