@@ -10,7 +10,7 @@ Tech stack:
   - TypeScript
   - Ruby on Rails
 
-
+Misc:
 - 🔭 I’m currently working on improving the future of async communication at Tribe.
 - 🌱 I’m currently taking @kentcdodds Epic React course (epicreact.dev) and learning about Smart Contract scaling solutions.
 - 😄 Pronouns: He/Him
