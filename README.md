@@ -5,10 +5,11 @@ I'm Top 6% on StackOverflow. Coding is my passion, and I love contributing to Op
 I'm actively looking for more opportunities to contribute more back to Open Source and learn about blockchain technology.
 
 Tech stack:
- - React.JS
- - React Native
- - TypeScript
- - Ruby on Rails
+  - React.JS
+  - React Native
+  - TypeScript
+  - Ruby on Rails
+
 
 - 🔭 I’m currently working on improving the future of async communication at Tribe.
 - 🌱 I’m currently taking @kentcdodds Epic React course (epicreact.dev) and learning about Smart Contract scaling solutions.
