@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow.
+My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love having fun with my daughter, and I'm obsessed with crypto and they values it stands for.
 
 ## Biggest achievements
 
