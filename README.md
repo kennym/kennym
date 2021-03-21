@@ -4,9 +4,9 @@ My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenn
 
 ## Biggest achievements
 
-- Launched parenting app from start to finish and got acquired by a NYC startup
+- Launched parenting app from start to finish which got acquired by a NYC company.
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012.
-- Helped at least 100 people acquire more financial education in Latin America thanks to being part of a Cashflow Club
+- Helped at least 100 people acquire more financial education in Latin America thanks to being part of a Cashflow Club.
 
 ## Tech stack
   - React.JS
