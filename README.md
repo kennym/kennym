@@ -4,7 +4,7 @@ My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenn
 
 ## Biggest achievements
 
-- Helped launching a parenting app from start to finish which got acquired by a NYC company.
+- Helped launching a parenting app from start to finish which got acquired by a NYC company, and is now used by Fortune 50 companies.
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012.
 - Helped at least 100 people acquire more financial education in Latin America thanks to being part of a Cashflow Club.
 
