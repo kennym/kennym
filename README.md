@@ -5,7 +5,7 @@ My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenn
 ## Biggest achievements
 
 - In May 2021 I joined Quant.finance to make crypto more acccesible.
-- Helped launching a parenting app from start to finish which got acquired by a NYC company, and is now used by Fortune 50 companies.
+- Helped launching a parenting app which [got acquired by a NYC company](https://www.mavenclinic.com/post/maven-acquires-bright-parenting-give-parents-support-pediatrics-program-app), and is now used by Fortune 50 companies.
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012.
 - Helped at least 100 people acquire more financial education in Latin America thanks to being part of a Cashflow Club.
 
