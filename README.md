@@ -8,6 +8,7 @@ I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 - Helped launching a parenting app which [got acquired by a NYC company](https://www.mavenclinic.com/post/maven-acquires-bright-parenting-give-parents-support-pediatrics-program-app), and is now used by Fortune 50 companies.
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012 until 2021. (Now defunct: www.rifflebooks.com)
+- Made [WP plugin](https://github.com/kennym/cf7-to-api) that helps 3k+ people
 - Participated and contributed in Google Code-In 2010 - a programming competition for <18 yo
 
 ## Tech stack
