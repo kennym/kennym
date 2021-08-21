@@ -9,10 +9,11 @@ My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenn
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012 until 2021. (Now defunct: www.rifflebooks.com)
 
 ## Tech stack
+
+  - Web3 (Ethers/Metamask/Truffle)
   - React.JS
   - React Native
-  - TypeScript
-  - Ruby on Rails
+  - TypeScript/ES6
   - NodeJS
   - Some Rust/Go
 
