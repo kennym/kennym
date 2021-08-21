@@ -17,9 +17,7 @@ My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenn
   - Some Rust/Go
 
 ## Misc
-- 🔭 I’m currently working on improving the future of async communication at Tribe.
-     I'm actively looking for more opportunities to contribute more back to Open Source and learn about blockchain technology.
-- 🌱 I’m currently taking @kentcdodds Epic React course (epicreact.dev) and learning about Smart Contract scaling solutions.
+- 🌱 I'm currently taking EatTheBlocks 30 dapps in 30 days course.
 - 😄 Pronouns: He/Him
 
 ## 📫 Follow and reach out
