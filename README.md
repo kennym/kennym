@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Kenny Meyer. I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing Roblox with my daughter, and I'm obsessed with crypto and the values that crypto represents: Trust, Transparency and Collaboration.
+My name is Kenny Meyer. I'm a Web3 developer with strong interests in building crypto products.
+
+I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing Roblox with my daughter, and I'm obsessed with crypto and the values that crypto represents: Trust, Transparency and Collaboration.
 
 ## Biggest achievements
 
