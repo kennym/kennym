@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Web3 developer with strong interests in building crypto products, and mostly self-taught (thanks Google Search). I'm currently working at [Quant](https://quant.finance). We're looking for devs!
+I'm a Web3 developer with strong interests in building crypto products.
 
-I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing Roblox with my daughter, and I'm obsessed with crypto and the values that crypto represents: Trust, Transparency and Collaboration.
+I'm [top 6%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing video games with my daughter and I'm obsessed with crypto and the values that crypto represents: Trust, Transparency and Collaboration.
 
 ## Biggest achievements
 
