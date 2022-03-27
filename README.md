@@ -2,7 +2,7 @@
 
 I'm a Web3 developer with strong interests in building crypto products.
 
-I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing video games with my daughter and I'm obsessed with crypto and the values that crypto represents: Trust, Transparency and Collaboration.
+I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing video games with my daughter and I'm obsessed with crypto and the values that crypto represents: Trust through verification, Transparency and Collaboration.
 
 ## Biggest achievements
 
