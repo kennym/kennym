@@ -6,7 +6,6 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Latest Achievements
 
-- [April 2022] Joined Toucan.earth as a full-time engineer focusing on improving climate and Web3.
 - [March 2022] Participated in the LFGrow Hackaton sponsored by Lens Protocol (https://lens.dev) https://hack.ethglobal.com/lfgrow/home
 
 ## Biggest achievements
