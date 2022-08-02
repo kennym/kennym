@@ -10,7 +10,7 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Biggest achievements
 
-- Helped launching a parenting app which [got acquired by a NYC company](https://www.mavenclinic.com/post/maven-acquires-bright-parenting-give-parents-support-pediatrics-program-app), and is now used by Fortune 50 companies.
+- Helped launching a parenting app which [got acquired by a NYC company](https://www.mavenclinic.com/post/maven-acquires-bright-parenting-give-parents-support-pediatrics-program-app), and is now used by Fortune 500 companies.
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012 until 2021. (Now defunct: www.rifflebooks.com)
 - Made a [WP plugin](https://github.com/kennym/cf7-to-api) that helps 3k+ people
 - Participated and contributed in Google Code-In 2010 - a programming competition for less than 18 year-old high-school students
