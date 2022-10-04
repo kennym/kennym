@@ -22,6 +22,8 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
   - React Native
   - TypeScript/ES6
   - NodeJS
+  - Ruby
+  - Python
   - Some Rust/Go
 
 ## Misc
