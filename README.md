@@ -17,8 +17,8 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Tech stack
 
-  - Web3 (Ethers/Metamask/Truffle)
-  - React.JS
+  - Web3 (Ethers/Metamask/Truffle/Hardhat)
+  - ReactJS
   - React Native
   - TypeScript/ES6
   - NodeJS
