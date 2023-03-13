@@ -6,6 +6,7 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Latest Achievements
 
+- [March 2023] Launched www.tryskylink.com - an AI travel assistant - signed our first client.
 - [March 2022] Participated in the LFGrow Hackaton sponsored by Lens Protocol (https://lens.dev) https://hack.ethglobal.com/lfgrow/home
 
 ## Biggest achievements
