@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Web3 developer with strong interests in building crypto products.
+I'm a full-stack software engineer solving real problems.
 
-I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing video games with my daughter and I'm obsessed with crypto and the values that crypto represents: Trust through verification, Transparency, Collaboration and self-sovereignty of money.
+I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing video games with my daughter and I'm in line with crypto and the values that crypto represents: Trust through verification, Transparency, collaboration and self-sovereignty of money.
 
 ## Latest Achievements
 
