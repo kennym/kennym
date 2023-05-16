@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack software engineer solving real problems.
+I'm a full-stack software engineer solving problems that make people life's better.
 
 I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I love playing video games with my daughter and I'm in line with crypto and the values that crypto represents: Trust through verification, Transparency, collaboration and self-sovereignty of money.
 
