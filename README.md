@@ -9,7 +9,7 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 - [March 2023] Launched www.tryskylink.com - an AI travel assistant - signed our first client.
 - [March 2022] Participated in the LFGrow Hackaton sponsored by Lens Protocol (https://lens.dev) https://hack.ethglobal.com/lfgrow/home
 
-## Biggest achievements
+## Proud achievements
 
 - Helped launching Bright Parenting, a parenting app, which [got acquired by a NYC company](https://www.mavenclinic.com/post/maven-acquires-bright-parenting-give-parents-support-pediatrics-program-app), and is now used by Fortune 500 companies.
 - I've built a social book network and email list that serves over 100k people on a weekly basis since 2012 until 2021. (Now defunct: www.rifflebooks.com)
