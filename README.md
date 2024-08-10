@@ -18,14 +18,14 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Tech stack
 
-  - Web3 (Ethers/Metamask/Truffle/Hardhat)
+  - Bitcoin/Lightning
   - ReactJS
   - React Native
   - TypeScript/ES6
   - NodeJS
   - Ruby
   - Python
-  - Some Rust/Go
+  - Rust
 
 ## Misc
 - 🌱 I'm currently taking EatTheBlocks 30 dapps in 30 days course.
