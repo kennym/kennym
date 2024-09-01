@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer striving to solve problems that make people life's better.
 
-I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I believe in trust through verification, transparency, collaboration and self-sovereignty of money.
+I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflow. I believe in trust through verification, transparency with the right to privacy, collaboration and self-sovereignty of money.
 
 ## Latest Achievements
 
