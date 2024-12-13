@@ -6,7 +6,7 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Latest Achievements
 
-- [March 2023] Helped launchin www.tryskylink.com - an enterprise travel chatbot
+- [March 2023-December 2024] Helped launching www.tryskylink.com - an enterprise travel chatbot
 - [March 2022] Participated in the LFGrow Hackaton sponsored by Lens Protocol (https://lens.dev) https://hack.ethglobal.com/lfgrow/home
 
 ## Proud achievements
