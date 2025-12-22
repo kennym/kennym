@@ -6,6 +6,7 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 
 ## Latest Achievements
 
+- [June 2025] - Joined @cashea-bnpl as Frontend Tech Lead
 - [March 2023-December 2024] Helped launching www.tryskylink.com - an enterprise travel chatbot
 - [March 2022] Participated in the LFGrow Hackaton sponsored by Lens Protocol (https://lens.dev) https://hack.ethglobal.com/lfgrow/home
 
