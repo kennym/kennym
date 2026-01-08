@@ -17,17 +17,6 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 - Made a [WP plugin](https://github.com/kennym/cf7-to-api) that helps 3k+ people
 - Participated and contributed in Google Code-In 2010 - a programming competition for less than 18 year-old high-school students
 
-## Tech stack
-
-  - Bitcoin/Lightning SDK
-  - ReactJS
-  - React Native
-  - TypeScript/ES6
-  - NodeJS
-  - Ruby
-  - Python
-  - Rust
-
 ## Misc
 - 🌱 I'm currently learning about Lightning and Nostr
 - 😄 Pronouns: He/Him
