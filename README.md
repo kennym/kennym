@@ -17,13 +17,6 @@ I'm [top 5%](https://stackoverflow.com/users/221612/kenny-meyer) on StackOverflo
 - Made a [WP plugin](https://github.com/kennym/cf7-to-api) that helps 3k+ people
 - Participated and contributed in Google Code-In 2010 - a programming competition for less than 18 year-old high-school students
 
-## Misc
-- 🌱 I'm currently learning about Lightning and Nostr
-- 😄 Pronouns: He/Him
-
-## 📫 Follow and reach out
-- [Twitter](https://twitter.com/meyerkenny)
-
 <!--
 **kennym/kennym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
